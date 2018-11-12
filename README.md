@@ -2,6 +2,9 @@
 Abaqus VUMAT fortran subroutine for a Neo-Hookean material
 
 Download the subroutine and run with the .inp file in Abaqus
+```
+abaqus inp=cube_explicit.inp user=vumat.for job=test01
+```
 
 Alter neo-hookean material properties (C10, D1) within the input file as required
 
@@ -9,7 +12,7 @@ Subroutine has not been robustly tested but computes the same stress as the in-b
 
 
 
-<b>MIT License<b>
+**MIT License**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

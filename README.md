@@ -8,6 +8,7 @@ Alter neo-hookean material properties (C10, D1) within the input file as require
 Subroutine has not been robustly tested but computes the same stress as the in-built Abaqus material law in several single-element simulations
 
 
+
 MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

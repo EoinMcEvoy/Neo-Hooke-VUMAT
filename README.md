@@ -8,7 +8,7 @@ abaqus inp=cube_explicit.inp user=vumat.for job=test01
 
 Alter neo-hookean material properties (C10, D1) within the input file as required
 
-Subroutine has not been robustly tested but computes the same stress as the in-built Abaqus material law in several single-element simulations
+Subroutine has not been robustly tested but computes the same stress as the in-built Abaqus material law for several single-element deformations
 
 
 

@@ -9,7 +9,7 @@ Subroutine has not been robustly tested but computes the same stress as the in-b
 
 
 
-MIT License
+<b>MIT License<b>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
